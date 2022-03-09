@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  BarajarRepartirCartas.cpp
+c:\users\sams club àtria\documents\programación\estructurada\apuntadores y cadenas\arreglosdeapuntadores\barajarrepartircartas\barajarrepartircartas\barajarrepartircartas.cpp(33): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BarajarRepartirCartas.vcxproj -> C:\Users\sams club àtria\Documents\Programación\Estructurada\Apuntadores y cadenas\ArreglosDeApuntadores\BarajarRepartirCartas\Debug\BarajarRepartirCartas.exe

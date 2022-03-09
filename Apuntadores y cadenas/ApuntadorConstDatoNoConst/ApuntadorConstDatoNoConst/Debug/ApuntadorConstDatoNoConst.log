@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ApuntadorConstDatoNoConst.cpp
+c:\users\sams club àtria\documents\programación\estructurada\apuntadores y cadenas\apuntadorconstdatonoconst\apuntadorconstdatonoconst\apuntadorconstdatonoconst.cpp(10): warning C4101: 'y': variable local sin referencia
+  ApuntadorConstDatoNoConst.vcxproj -> C:\Users\sams club àtria\Documents\Programación\Estructurada\Apuntadores y cadenas\ApuntadorConstDatoNoConst\Debug\ApuntadorConstDatoNoConst.exe

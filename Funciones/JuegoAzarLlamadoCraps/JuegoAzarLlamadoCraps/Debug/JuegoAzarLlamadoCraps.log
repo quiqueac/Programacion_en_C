@@ -1,0 +1,3 @@
+﻿  JuegoAzarLlamadoCraps.cpp
+c:\users\sams club àtria\documents\programación\estructurada\funciones\juegoazarllamadocraps\juegoazarllamadocraps\juegoazarllamadocraps.cpp(40): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  JuegoAzarLlamadoCraps.vcxproj -> C:\Users\sams club àtria\Documents\Programación\Estructurada\Funciones\JuegoAzarLlamadoCraps\Debug\JuegoAzarLlamadoCraps.exe

@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  FrecuenciaCarasDado6000VecesArreglo.cpp
+c:\users\sams club àtria\documents\programación\estructurada\arreglos\frecuenciacarasdado6000vecesarreglo\frecuenciacarasdado6000vecesarreglo\frecuenciacarasdado6000vecesarreglo.cpp(22): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  FrecuenciaCarasDado6000VecesArreglo.vcxproj -> C:\Users\sams club àtria\Documents\Programación\Estructurada\Arreglos\FrecuenciaCarasDado6000VecesArreglo\Debug\FrecuenciaCarasDado6000VecesArreglo.exe
